@@ -6,5 +6,4 @@ let s = 1;
 let t = 15;
 let total = s + t;
 
-alert ('hii i am come back');
 
