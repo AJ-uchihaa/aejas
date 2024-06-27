@@ -1,5 +1,9 @@
-const i = document.querySelector('.input')
-const b = document.querySelector('.btn')
-b.addEventListener('click',()=>{
-    alert('assalamu alaikkum')
+const i = document.querySelector('.input');
+const btn = document.querySelector('.btn');
+btn.addEventListener("click",()=>{
+    aj()
 })
+function aj(){
+    alert("hii")
+}
+aj();
