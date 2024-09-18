@@ -6,7 +6,7 @@ async function aj(){
     let w = await q.json();
     console.log(w)
    } catch (error) {
-      alert('error')
+      console.log('error')
    }
     
 }
